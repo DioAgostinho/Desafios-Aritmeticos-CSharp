@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Comunicação_em_Piralandia/1.0.0": {
+        "runtime": {
+          "Comunicação_em_Piralandia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Comunicação_em_Piralandia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

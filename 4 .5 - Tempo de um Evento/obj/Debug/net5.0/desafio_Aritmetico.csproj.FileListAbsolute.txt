@@ -1,0 +1,16 @@
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.csprojAssemblyReference.cache
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.AssemblyInfoInputs.cache
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.AssemblyInfo.cs
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.csproj.CoreCompileInputs.cache
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.exe
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.deps.json
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.runtimeconfig.json
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.runtimeconfig.dev.json
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.dll
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\ref\desafio_Aritmetico.dll
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\bin\Debug\net5.0\desafio_Aritmetico.pdb
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.dll
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\ref\desafio_Aritmetico.dll
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.pdb
+C:\Users\Agostinho Lima\Desktop\desafio_Aritmetico\obj\Debug\net5.0\desafio_Aritmetico.genruntimeconfig.cache
